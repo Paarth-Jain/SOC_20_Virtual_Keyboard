@@ -1,4 +1,4 @@
-# SOC_20 Virtual Keyboard
+# SOC 2020 Virtual Keyboard
 
 
 This is a project I'am mentoring along with Parth Laturia (https://github.com/ParthLa) as a part of Seasons of Code, Web and Coding Club, IIT Bombay.<br><br>
@@ -31,6 +31,8 @@ This project is also a little hardware intensive along with the software part as
 * [Python Resource 2](https://www.learnpython.org/)<br>
 * [Python SciPy](https://scipy-lectures.org/)<br>
 * [Python Practice](https://www.hackerrank.com/domains/python)
+* [OpenCV Video Tutorials](https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
+* [OpenCV GFG Tutorials](https://www.geeksforgeeks.org/opencv-python-tutorial/)
 
 
 ## Teams
@@ -41,18 +43,6 @@ Aanal Sonara | Paarth Jain | Aashuraj Hassani | Sharvaree Sinkar |  Aashwin Agar
 Ankit Kumar Jain | Harshavardhan Ragade | Pavithra | Aayush Shrivastav |  Darin Jeff  | Devansh Saini | Hitesh Wadhwani |
 Dhanush S | Kritin Agarwal | Sudhansh | Nirmal Shah | Bitthal Parida | Riya Agarwal | Pallavi Kochar |
 Yash Sharda | Tanisha Khandelwal | Vishesh Agarwal | Harsh Kumar | Aditya Vijay Jain | Rushil Kopakka | Yashika Singhal |
-
-## Leaderboard
-
-Team | Score
---------- |----------
- .|. |
- .|. |
- .|. |
- .|. |
- .|. |
- .|. |
- .|. |
 
 ## Weekly Targets
 
@@ -70,10 +60,36 @@ Team | Score
 * Set your hands and get a flow in Python by practicing problems on HackerRank.
 * Formation of teams for upcoming assignment.
 * First assignment on **2nd April**
-* Submission of first assignment by **6th April 11:59 PM**
+* Submission of first assignment by **6th April 11:59 PM**.
 * Score Evaluation and Updation of Leaderboard.
 
+### Week 3 (6th April - 12th April)
+
+* Evaluation of solutions of assignment 1 (7, 8 April).
+* Documenting previous week's progress on respective GitHub ID's.
+* Start with OpenCV Tutorials.
+* Keep practicing Python problems on HackerRank. 
+
+### Week 4 (13th April - 19th April)
+
+* Complete OpenCV tutorials.
+
+### Week 5 (21 April - 27 April)
+
+* Complete Documentation of OpenCV notes 
+* Invisibility Cloak project.
+* Update Progress Reports.
+### Week 6 (28 April - 4 May)
+
+* Wrap up the stuff till now.
+
+### Week 7 (5 May - 11 May)
+
+ * Start with Sudoku Solver Project
  
+### Week 9 
+
+* Implement Paper Keyboard
 
 
 
